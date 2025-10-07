@@ -1,4 +1,4 @@
-package com.example.emilya7
+package com.example.emilya6
 
 import android.os.Bundle
 import androidx.activity.enableEdgeToEdge
